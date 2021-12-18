@@ -7,16 +7,18 @@ WHAT THE PROGRAM DOES
 
 Console application that has register and login sections for different types of users (teacher, student, admin). Each user has different options to choose from inside the login section. Example of an option inside the login section is "1. Show User Info" or "2. Add Grade". 
 
-WHAT NEEDS TO BE DONE
+WHAT WORKS SO FAR
 
 1. The "Teacher" user can successfully register and login as well as use the option "1. Show User Info".
  - "2. Add Grade" option is to be made functional.
 
-3. The "Student" user is not yet completed.
+WHAT NEEDS TO BE DONE
+
+1. The "Student" user is not yet completed.
  - Login and Register sections have to be implemented.
  - "1. Show User Info" option is yet to be implemented.
  - "2. Look Grades" option is yet to be implemented.
  - "3. Logout" option is yet to be implemented.
  
-5. The "Admin" user is not yet completed.
+2. The "Admin" user is not yet completed.
 
