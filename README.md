@@ -10,7 +10,7 @@ Console application that has register and login sections for different types of 
 WHAT WORKS SO FAR
 
 1. The "Teacher" user can successfully register and login as well as use the option "1. Show User Info".
- - "2. Add Grade" option is to be made functional.
+ - "2. Add Grade" option is not yet made functional.
 
 WHAT NEEDS TO BE DONE
 
